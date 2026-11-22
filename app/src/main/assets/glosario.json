@@ -1,0 +1,404 @@
+{
+ "intro": {
+  "etiqueta": "HACIA EL ENVERDECIMIENTO DE LA BANCA · CUBA",
+  "titulo": "Conceptos ambientales y de biodiversidad",
+  "subtitulo": "Glosario para analistas de riesgos crediticios y especialistas bancarios",
+  "general": [
+   {
+    "titulo": "¿Qué es la banca verde y su importancia para Cuba?",
+    "texto": "La banca verde es el modelo de intermediación financiera que incorpora las consideraciones ambientales y sociales en la estrategia, los productos, los procesos y la cultura institucional de los bancos. Para Cuba, país insular tropical de gigantesca biodiversidad, pero expuesto a huracanes, sequías, intensas lluvias y al ascenso del nivel del mar, aplicar este enfoque no es una cuestión de moda sino de prudencia financiera: un cliente cuyo modelo de negocio degrada la naturaleza que lo sostiene es, a mediano plazo, un cliente con problemas de pago, colaterales que pierden valor y licencias en riesgo.\n\nEl proceso de Enverdecimiento de la banca cubana se desarrolla como una solución financiera innovadora en el marco de la iniciativa BIOFIN del PNUD, que coordina el Ministerio de Medio Ambiente, Hábitat y Recursos Hidráulicos (MAHRH), en alianza con el Ministerio de Finanzas y Precios, el Ministerio de Economía y Planificación, el Banco Central de Cuba y la Oficina Nacional de Estadística e Información."
+   },
+   {
+    "titulo": "El SARAS como pilar de la banca verde",
+    "texto": "El modelo de banca verde de la economía cubana se sustenta en cuatro pilares: la ecoeficiencia institucional, los productos y servicios financieros verdes, una taxonomía propia que clasifica qué actividades pueden considerarse verdes y un Sistema de Administración de Riesgos Sociales y Ambientales (SARAS).\n\nEl SARAS es el conjunto de políticas, procedimientos y herramientas que usa un banco para identificar, evaluar y gestionar los posibles impactos sociales y ambientales de las actividades que financia. Así, ayuda a tomar decisiones de crédito más responsables y a dar seguimiento a los riesgos, sin reemplazar las obligaciones legales del cliente ni del banco."
+   },
+   {
+    "titulo": "Marco de referencia",
+    "texto": "El PNUD regula su actuación mediante la Política de Salvaguardas Sociales y Ambientales y sus Estándares Sociales y Ambientales (SES), en vigor desde 2015 y actualizados en 2021. Son ocho estándares, y cada término del glosario indica en su apartado de aplicación con cuál se conecta. Para clasificar el riesgo, el PNUD aplica el Procedimiento de Diagnóstico Social y Ambiental (SESP), que califica cada proyecto como de riesgo bajo, moderado o alto.\n\nEn Cuba, el marco se apoya en la Ley 150/2022 del Sistema de los Recursos Naturales y el Medio Ambiente, el Plan de Estado «Tarea Vida», el Convenio sobre la Diversidad Biológica y el Marco Global de Kunming-Montreal, el Programa Nacional sobre la Diversidad Biológica y la iniciativa BIOFIN."
+   }
+  ],
+  "comoUsar": {
+   "titulo": "Cómo usar esta app",
+   "texto": "El glosario presenta 41 términos numerados de forma continua, agrupados en cinco bloques temáticos. Cada término incluye una definición sencilla, con rigor científico, y un apartado de aplicación que lo conecta con el análisis de riesgos ambientales y sociales conforme a los estándares del PNUD y al contexto de la banca cubana. Se recomienda una primera lectura secuencial y, después, usarlo como manual de consulta con el buscador.\n\nLas definiciones no sustituyen la normativa vigente ni los estudios técnicos especializados: solamente complementan el criterio profesional del analista."
+  },
+  "creditos": [
+   {
+    "nombre": "Dr. C. Dennis Denis Ávila",
+    "afiliacion": "Instituto Cubano de Biodiversidad"
+   },
+   {
+    "nombre": "Dra. C. Mayra Casas Vilardell",
+    "afiliacion": "BIOFIN/PNUD"
+   },
+   {
+    "nombre": "Dra. C. Marlén Sánchez Gutiérrez",
+    "afiliacion": "Consultora PNUD/UH"
+   },
+   {
+    "nombre": "M.Sc. Vivian Lago Abascal",
+    "afiliacion": "Jefa de Departamento Banca Verde, BANDEC"
+   },
+   {
+    "nombre": "M.Sc. Leiddys Hernández Sánchez",
+    "afiliacion": "Especialista BANDEC"
+   },
+   {
+    "nombre": "Daisuri Suárez",
+    "afiliacion": "Especialista Banco Central de Cuba"
+   },
+   {
+    "nombre": "Manuel Tejeda Díaz",
+    "afiliacion": "Director Banca Agropecuaria, BANDEC"
+   }
+  ]
+ },
+ "bloques": [
+  {
+   "id": 1,
+   "titulo": "Fundamentos de ecología y medio ambiente"
+  },
+  {
+   "id": 2,
+   "titulo": "Cambio climático y gestión del riesgo de desastres"
+  },
+  {
+   "id": 3,
+   "titulo": "Biodiversidad y recursos naturales"
+  },
+  {
+   "id": 4,
+   "titulo": "Riesgos ambientales y sociales en la actividad bancaria"
+  },
+  {
+   "id": 5,
+   "titulo": "Finanzas verdes e instrumentos de financiamiento sostenible"
+  }
+ ],
+ "conceptos": [
+  {
+   "numero": 1,
+   "bloque": 1,
+   "nombre": "Medio ambiente",
+   "definicion": "El medio ambiente es el sistema formado por los seres vivos, los elementos físicos que los rodean - agua, aire, suelo, clima, relieve- y las obras y actividades humanas, junto con las relaciones que se establecen entre todos ellos. No se limita a la naturaleza intacta: incluye también los espacios transformados por el ser humano, como ciudades, campos cultivados o zonas industriales. La normativa cubana (Ley 150/2022) lo entiende así, y de allí deriva que la protección ambiental abarque tanto la conservación de la naturaleza como la salud y la calidad de vida de las personas.",
+   "aplicacion": "Para el analista, caracterizar la dimensión ambiental del cliente significa preguntarse qué elementos del medio utiliza (agua, suelo, madera, paisaje), qué altera (vertimientos, emisiones, residuos) y qué normas aplican en cada caso. El PNUD exige esa mirada integral: los impactos sobre el medio ambiente y sobre las personas se analizan de forma conjunta en el diagnóstico social y ambiental, porque suelen estar entrelazados."
+  },
+  {
+   "numero": 2,
+   "bloque": 1,
+   "nombre": "Ecosistema",
+   "definicion": "Un ecosistema es la unidad básica de la ecología: un área determinada - un bosque, un río, un arrecife de coral, un humedal- donde los seres vivos interactúan entre sí (alimentarse, competir, asociarse) y con el medio físico (luz, temperatura, nutrientes). Funciona como una trama de equilibrios: si un componente se altera de forma sostenida, toda la estructura cambia. Por ejemplo, la tala excesiva del bosque que protege las márgenes de un río modifica el caudal, la fauna acuática y la calidad del agua corriente abajo.",
+   "aplicacion": "El Estándar 1 del PNUD obliga a evaluar cómo el proyecto del cliente transforma los ecosistemas y a aplicar la jerarquía de mitigación: evitar el impacto, minimizarlo, restaurar y, solo en último término, compensar. En la banca cubana esta mirada es decisiva en los créditos turísticos a cayerías y costas, donde la conservación de manglares y arrecifes sostiene el propio negocio financiado."
+  },
+  {
+   "numero": 3,
+   "bloque": 1,
+   "nombre": "Servicios ecosistémicos",
+   "definicion": "Los servicios ecosistémicos son los beneficios que las personas obtienen de la naturaleza. Se agrupan en cuatro clases: servicios de aprovisionamiento (alimentos, agua dulce, madera, fármacos), servicios de regulación (regulación del clima, control de inundaciones, polinización de cultivos, depuración natural del agua), servicios culturales (valores turísticos, recreativos, educativos y espirituales) y servicios de soporte (formación de suelos y ciclos de nutrientes, que sostienen a los demás). La economía los recibe sin pagarlos, pero cuando se degradan hay que sustituirlos con inversiones costosas: si desaparece la polinización natural, se pierden cosechas o se paga la polinización manual o si se pierde la depuración natural del agua hay que construir una planta de tratamiento. Algunos autores en la actualidad tienden a denominarlos como contribución de la naturaleza a las personas.",
+   "aplicacion": "Este concepto traduce la ecología a lenguaje financiero: un servicio degradado es una fuente de ingresos que se erosiona. Un hotel cuyo arrecife pierde atractivo vende menos excursiones; una cuenca contaminada encarece el agua de una industria. La iniciativa BIOFIN y el PNUD promueven valorar estos servicios para justificar inversiones de conservación y orientar el crédito verde hacia actividades que los mantienen."
+  },
+  {
+   "numero": 4,
+   "bloque": 1,
+   "nombre": "Desarrollo sostenible",
+   "definicion": "Desarrollo sostenible es el que satisface las necesidades del presente sin comprometer la capacidad de las generaciones futuras para satisfacer las suyas, según la definición clásica del Informe Brundtland (1987). Combina tres dimensiones que deben avanzar juntas: la económica, la social y la ambiental. Se materializó en la Agenda 2030 de las Naciones Unidas y sus 17 Objetivos de Desarrollo Sostenible (ODS), que hoy guían la cooperación internacional y las políticas públicas de casi todos los países.",
+   "aplicacion": "El PNUD ancla todo su quehacer en los ODS, y la banca verde conecta directamente con varios de ellos: agua limpia (ODS 6), energía asequible y no contaminante (ODS 7), producción y consumo responsables (ODS 12), acción por el clima (ODS 13), vida submarina (ODS 14) y vida de ecosistemas terrestres (ODS 15). Identificar estos vínculos ayuda al analista a clasificar un crédito como verde y a explicar su contribución al desarrollo nacional, teniendo en cuenta el Programa de Desarrollo Económico y Social al 2030, que es precisamente la forma de Cuba responder al cumplimiento de los OD."
+  },
+  {
+   "numero": 5,
+   "bloque": 1,
+   "nombre": "Economía circular",
+   "definicion": "La economía circular es el modelo de producción y consumo que busca mantener los materiales en uso el mayor tiempo posible, en contraste con el modelo lineal de extraer, fabricar, usar y desechar. Se apoya en el diseño duradero, la reutilización, la reparación, el reciclaje y la valorización de los residuos como insumos de otros procesos. Reduce la presión sobre los recursos naturales, disminuye las emisiones y los residuos peligrosos y, en muchos casos, crea encadenamientos productivos nuevos: lo que era un desecho se convierte en materia prima.",
+   "aplicacion": "Para el analista, los proyectos circulares (reciclaje de plásticos y metales, compostaje, reutilización industrial, ecodiseño) suelen presentar un perfil ambiental positivo y acceso a mercados internacionales exigentes. El reaprovechamiento de residuos es además una vía concreta de ahorro y sustitución de importaciones; el PNUD promueve estas soluciones como parte de una economía verde e inclusiva."
+  },
+  {
+   "numero": 6,
+   "bloque": 1,
+   "nombre": "Ecoeficiencia institucional",
+   "definicion": "La ecoeficiencia institucional consiste en cumplir las funciones y prestar servicios de calidad utilizando menos recursos y generando un menor impacto ambiental. Implica reducir, por ejemplo, el consumo de agua, energía y materiales, así como las emisiones y los residuos, en relación con los servicios prestados o las actividades realizadas. Se evalúa mediante indicadores como el consumo de energía por persona atendida o la cantidad de residuos por servicio, y contribuye al uso responsable de los recursos públicos, la mejora de la gestión y el cumplimiento de las normas ambientales.",
+   "aplicacion": "La literatura cubana de finanzas identifica la ecoeficiencia como uno de los pilares de la banca verde que el sistema bancario nacional debe implementar. El analista puede solicitar al cliente indicadores de consumo por unidad producida y compararlos con referencias del sector: las mejoras sostenidas de esos indicadores son señal de buen manejo y reducen la probabilidad de incumplimiento."
+  },
+  {
+   "numero": 7,
+   "bloque": 1,
+   "nombre": "Contaminación",
+   "definicion": "La contaminación es la introducción de sustancias o formas de energía - ruido, calor, radiación- en el medio, en cantidades superiores a su capacidad natural de asimilación, con daños para la salud humana y los ecosistemas. Puede ser puntual (el tubo de vertimiento de una fábrica) o difusa (el arrastre de agroquímicos por la lluvia en una cuenca). Comprende la contaminación de las aguas (aguas residuales urbanas e industriales), del aire (partículas y gases), del suelo (residuos peligrosos) y también las formas acústica y lumínica.",
+   "aplicacion": "Un cliente contaminador acumula pasivos contingentes: multas y sanciones administrativas, costos de remediación, suspensión de licencias y demandas de comunidades. El principio de que quien contamina paga, consagrado en la Ley 150/2022, traslada esos costos al responsable. El Estándar 3 del PNUD exige asegurar la salud y la seguridad de las comunidades: los vertimientos sin tratamiento son una señal roja directa en la evaluación."
+  },
+  {
+   "numero": 8,
+   "bloque": 2,
+   "nombre": "Cambio climático",
+   "definicion": "El cambio climático es la alteración del clima atribuida, directa o indirectamente, a las actividades humanas que modifican la composición de la atmósfera mundial, y que se suma a la variabilidad natural del clima; es la definición de la Convención Marco de las Naciones Unidas sobre el Cambio Climático. Su causa principal es la quema de combustibles fósiles, junto con el cambio de uso de la tierra. En Cuba se manifiesta en el ascenso del nivel del mar, la intensificación de las sequías y de los eventos hidrometeorológicos extremos, la salinización de suelos y acuíferos y el blanqueamiento de los corales.",
+   "aplicacion": "El Estándar 2 del PNUD exige evaluar las emisiones de los proyectos y su resiliencia climática. El analista debe preguntarse si el proyecto emite mucho y si está expuesto al mar, a la sequía o a los ciclones. La “Tarea Vida” define las zonas y sectores prioritarios del país, y en ellas el riesgo climático debe pesar en la calificación, el precio y las condiciones del crédito."
+  },
+  {
+   "numero": 9,
+   "bloque": 2,
+   "nombre": "Gases de efecto invernadero",
+   "definicion": "Los gases de efecto invernadero (GEI) son gases que retienen el calor en la atmósfera: dióxido de carbono, metano, óxidos de nitrógeno y otros. Sin ellos la Tierra sería un planeta congelado, pero su acumulación excesiva - provocada por quemar petróleo, gas y carbón, por la deforestación y por ciertas formas de ganadería y agricultura- calienta el planeta y altera el clima.",
+   "aplicacion": "Los clientes intensivos en carbono enfrentan riesgos de transición: regulaciones futuras, costos energéticos y cambios en las preferencias de mercados y turistas. En Cuba, el impulso a las fuentes renovables abre espacio a líneas de crédito vinculadas a la eficiencia energética y a la generación fotovoltaica."
+  },
+  {
+   "numero": 10,
+   "bloque": 2,
+   "nombre": "Huella de carbono",
+   "definicion": "La huella de carbono es el total de gases de efecto invernadero que emite, de forma directa e indirecta, una persona, empresa, producto o institución; se mide en toneladas de dióxido de carbono equivalente.",
+   "aplicacion": "Los créditos que reducen la huella de carbono a través de la eficiencia energética, transporte limpio y fuentes renovables suelen tener perfiles de riesgo atractivos."
+  },
+  {
+   "numero": 11,
+   "bloque": 2,
+   "nombre": "Riesgo climático físico y de transición",
+   "definicion": "Los riesgos climáticos se dividen en dos grandes familias. Los riesgos físicos son los daños derivados de los eventos del clima: agudos (huracanes, inundaciones, sequías intensas) o crónicos (ascenso del nivel del mar, salinización, calentamiento progresivo). Los riesgos de transición surgen del ajuste hacia una economía baja en carbono: cambios regulatorios, tecnológicos, de mercado y de reputación que devalúan a los actores que no se transforman. Ambos se trasladan a los balances de las empresas y, a través de ellas, a los balances de los bancos.",
+   "aplicacion": "En la banca, un huracán puede dañar simultáneamente colaterales, cosechas y flujos de caja de decenas de clientes en un mismo territorio: es el clásico riesgo de concentración climática. El analista debe mapear la exposición geográfica de la cartera, incorporar el seguro y las medidas de adaptación del cliente en la evaluación y anticipar qué sectores perderán valor durante la transición energética."
+  },
+  {
+   "numero": 12,
+   "bloque": 2,
+   "nombre": "Adaptación y mitigación",
+   "definicion": "Son las dos grandes estrategias frente al cambio climático. La adaptación ajusta los sistemas humanos y naturales a los efectos ya inevitables: defensas costeras y restauración de manglares, variedades agrícolas resistentes a la sequía y a la salinidad, códigos de construcción más resistentes, almacenamiento de agua. La mitigación, en cambio, ataca las causas: reduce las emisiones de GEI o aumenta los sumideros que las absorben, mediante energías renovables, eficiencia energética, reforestación y agricultura sostenible. Ambas se complementan: una misma inversión puede ser mitigadora y adaptadora a la vez, como un manglar que fija carbono y protege la costa.",
+   "aplicacion": "Tarea Vida articula adaptación y mitigación en tareas concretas por territorio. El PNUD exige que sus proyectos no aumenten la vulnerabilidad ni las emisiones y, de preferencia, que las reduzcan. Para el analista, un crédito con componentes de adaptación - riego eficiente, infraestructura resiliente, diversificación productiva- es menos vulnerable al impago después de un evento extremo."
+  },
+  {
+   "numero": 13,
+   "bloque": 2,
+   "nombre": "Vulnerabilidad ante el cambio climático",
+   "definicion": "Según el Panel Intergubernamental de Expertos sobre el Cambio Climático (IPCC), la vulnerabilidad es el grado en que un sistema - una comunidad, una empresa, un cultivo, una región- es susceptible de sufrir daños ante el clima y no puede afrontarlos. Ésta depende de tres componentes: la exposición (qué tan cerca está del peligro), la sensibilidad (cuánto sufre si lo recibe) y la capacidad adaptativa (con qué recursos se recupera). Un mismo huracán produce pérdidas muy distintas en un hotel construido con códigos robustos y en una instalación precaria.",
+   "aplicacion": "En la evaluación del cliente, la vulnerabilidad se traduce en preguntas concretas: dónde están sus activos (costa baja, cuenca inundable, zona sísmica), de qué depende su producción (agua, lluvia, insumos importados) y si cuenta con seguros, reservas y planes de contingencia. El SESP del PNUD clasifica como riesgo alto los proyectos en zonas altamente vulnerables; esa misma lógica conviene a la banca."
+  },
+  {
+   "numero": 14,
+   "bloque": 2,
+   "nombre": "Resiliencia",
+   "definicion": "La resiliencia es la capacidad de un sistema - ecológico, social o económico- de absorber una perturbación sin colapsar, reorganizarse y seguir funcionando, conservando sus funciones y su identidad. La estabilidad en general se construye a partir de la unión entre resistencia y resiliencia: un manglar sano resiste el embate del huracán y se regenera si es resiliente; una comunidad resiliente reconstruye rápidamente su vida productiva. La resiliencia no es resistencia pasiva: incluye la capacidad de aprender y adaptarse para soportar mejor la próxima perturbación, y depende de factores como la diversidad, la salud de los ecosistemas y la organización social.",
+   "aplicacion": "Para la banca, la resiliencia opera en dos niveles: la del cliente (diversificación de ingresos, infraestructura robusta, seguros, planes de continuidad) y la de la propia cartera (diversificación territorial y sectorial para no concentrar la exposición frente a un mismo evento). Financiar medidas que aumentan la resiliencia - restauración de ecosistemas, infraestructura adaptada- es financiar la continuidad del negocio del cliente."
+  },
+  {
+   "numero": 15,
+   "bloque": 2,
+   "nombre": "Reducción del riesgo de desastres",
+   "definicion": "La reducción del riesgo de desastres es el conjunto de políticas y prácticas que buscan evitar que se generen nuevos riesgos, reducir los existentes y gestionar el riesgo residual. Su marco internacional es el Marco de Sendai (2015-2030), que prioriza entender el riesgo, fortalecer la gobernanza, invertir en la reducción del riesgo y mejorar la preparación para responder. Se apoya en la ciencia, en los sistemas de alerta temprana y en la planificación del uso del suelo: no construir sobre zonas inundables sigue siendo la medida más barata y eficaz de todas.",
+   "aplicacion": "Cuba posee una tradición consolidada de gestión del riesgo - defensa civil, alertas tempranas, evacuaciones organizadas- que el analista debe considerar como un atenuante estructural del riesgo físico. Debe remitirse a la Directiva 1 de 2022, publicada en la Gaceta Oficial No. 130 Ordinaria (\"Para la gestión de la reducción del riesgo de desastre en la República de Cuba\") que tiene alcance obligatorio en todo el territorio nacional. Este órgano establece las pautas para la planificación, organización y control de las medidas de prevención, preparativos, respuesta y recuperación ante peligros de origen natural, tecnológico y sanitario. Se articula directamente con el Decreto-Ley 170 de 1997 (sobre el Sistema de Medidas de Defensa Civil). En la evaluación de créditos de construcción o turismo, verificar el cumplimiento de la planificación territorial y de las normas de construcción es parte de la debida diligencia; el Estándar 2 del PNUD integra expresamente la gestión del riesgo de desastres."
+  },
+  {
+   "numero": 16,
+   "bloque": 3,
+   "nombre": "Biodiversidad",
+   "definicion": "La biodiversidad o diversidad biológica es la variedad de la vida en todas sus formas y niveles: la diversidad genética dentro de cada especie, la diversidad de especies y la diversidad de ecosistemas, junto con las interacciones entre ellas (definición del Convenio sobre la Diversidad Biológica). Incluye microorganismos, suelos vivos y las variedades tradicionales de cultivos y animales domésticos. Cuba, por su condición de archipiélago caribeño, es un país extraordinariamente biodiverso, con numerosos ejemplos de su flora y fauna que no existen en otro lugar del planeta.",
+   "aplicacion": "El Estándar 1 del PNUD exige evaluar los impactos sobre la biodiversidad y aplicar la jerarquía de mitigación (evitar, minimizar, restaurar, compensar), con especial cuidado en las zonas sensibles. En los créditos agropecuarios, forestales y turísticos, el analista debe preguntar por la ubicación del proyecto respecto a los hábitats sensibles y por las medidas de conservación que aplica el cliente."
+  },
+  {
+   "numero": 17,
+   "bloque": 3,
+   "nombre": "Especies endémicas",
+   "definicion": "Una especie endémica es la que vive exclusivamente en un territorio determinado: si desaparece allí, desaparece del planeta. Cuba posee un endemismo muy elevado - palmas, reptiles, anfibios, moluscos y plantas que solo existen en el archipiélago- y muchos de esos endemismos están amenazados por la pérdida de hábitat y por las especies invasoras. Se diferencia del término nativa, que se refiere a especies que naturalmente viven en Cuba (o sea, que no fueron introducidas por el hombre), pero también habitan en otros países.",
+   "aplicacion": "La presencia de especies endémicas amenazadas en el área de un proyecto eleva la calificación de riesgo en el procedimiento de diagnóstico SESP y puede exigir estudios de biodiversidad especializados y planes de manejo específicos. Para el banco, ignorarlas implica riesgos legales, bloqueos del proyecto y daños reputacionales severos; para el país, significa perder un patrimonio biológico irrecuperable."
+  },
+  {
+   "numero": 18,
+   "bloque": 3,
+   "nombre": "Especies amenazadas",
+   "definicion": "Una especie amenazada es la que enfrenta un alto riesgo de extinción, clasificado por la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza (UICN) en categorías como vulnerable, en peligro y en peligro crítico. Muchas especies endémicas cubanas están amenazadas.",
+   "aplicacion": "La presencia de especies amenazadas en el área de un proyecto eleva la calificación de riesgo en el procedimiento de diagnóstico SESP y puede exigir estudios de biodiversidad especializados y planes de manejo específicos. La autoridad nacional reguladora que emite las licencias ambientales obligatorias en relación a las especies protegidas es la ORSA (Oficina de Regulación y Seguridad Ambiental), la cual garantiza que Cuba cumpla con tratados globales como la Convención CITES. Su resolución anexa un inventario oficial de especies de flora, fauna y microorganismos con máxima protección estatal en Cuba, ya sea por su endemismo, estado de peligro de extinción, valor ecológico o económico o protección internacional. Para el banco, ignorarlas implica riesgos legales, bloqueos del proyecto y daños reputacionales severos."
+  },
+  {
+   "numero": 19,
+   "bloque": 3,
+   "nombre": "Áreas protegidas",
+   "definicion": "Un área protegida es un espacio geográfico delimitado y gestionado de forma legal y efectiva para conservar sus valores naturales, paisajísticos y culturales. En Cuba, el Sistema Nacional de Áreas Protegidas (SNAP) integra categorías como parques nacionales, reservas ecológicas, paisajes naturales, reservas de vida silvestre y elementos naturales destacados; el país cuenta además con reservas de la biosfera reconocidas por la UNESCO. Cada área tiene un plan de manejo y una administración que regula las actividades permitidas dentro de ella y en su zona de amortiguamiento.",
+   "aplicacion": "El SESP del PNUD clasifica como riesgo alto los proyectos dentro de áreas protegidas o en sus zonas de amortiguamiento, y también los que afectan otras áreas clave para la biodiversidad. El analista debe verificar la ubicación del proyecto, las autorizaciones del MAHRH y la coherencia del crédito con el plan de manejo del área. Un proyecto que vulnera un área protegida es, en la práctica, un crédito con vencimiento incierto."
+  },
+  {
+   "numero": 20,
+   "bloque": 3,
+   "nombre": "Fragmentación de hábitats",
+   "definicion": "El hábitat es el lugar que ofrece a una especie las condiciones necesarias para alimentarse, refugiarse y reproducirse. La fragmentación ocurre cuando un hábitat continuo se subdivide en parches aislados por carreteras, talas, represas o urbanización: las poblaciones quedan encerradas en islas cada vez más pequeñas, pierden diversidad genética y se vuelven más vulnerables a la extinción local. Junto con la conversión directa de las tierras, la fragmentación es la principal causa de pérdida de biodiversidad a escala mundial.",
+   "aplicacion": "El analista debe verificar si el proyecto destruye los hábitats naturales de especies importantes, o como planifica mitigar sus impactos sobre ellos. El PNUD exige no causar pérdida neta de hábitats naturales en sus proyectos (lo cual no siempre es posible en actividades económicas). Los créditos de infraestructura - carreteras, obras hidráulicas, desarrollos turísticos e inmobiliarios- son los más propensos a fragmentar hábitats. El analista debe verificar si el proyecto contempla conectividad ecológica (corredores biológicos, pasos de fauna, planes de restauración) y contrastar la propuesta con los planes de ordenamiento territorial."
+  },
+  {
+   "numero": 21,
+   "bloque": 3,
+   "nombre": "Deforestación y reforestación",
+   "definicion": "La deforestación es la conversión permanente de un bosque a otro uso de la tierra - agricultura, pastos, urbanización- o la eliminación de su cobertura arbórea por tala, incendios u otras causas. Sus consecuencias combinadas son múltiples: pérdida de especies, erosión de los suelos, alteración del ciclo del agua y liberación del carbono almacenado, que alimenta el cambio climático. La reforestación es la operación inversa: restablecer la cobertura forestal con especies adecuadas para recuperar funciones ecológicas y productivas, desde la protección de cuencas hasta la producción sostenible de madera.",
+   "aplicacion": "En los créditos madereros o agropecuarios con desmonte, el analista debe exigir planes de manejo forestal autorizados y descartar la tala ilegal, fuente directa de riesgo legal y reputacional. La reforestación y los sistemas agroforestales, en cambio, son actividades elegibles para el crédito verde: restauran suelos, fijan carbono y diversifican los ingresos del productor, en línea con los programas forestales nacionales."
+  },
+  {
+   "numero": 22,
+   "bloque": 3,
+   "nombre": "Degradación de suelos y desertificación",
+   "definicion": "La degradación de suelos es la pérdida de su capacidad productiva y ecológica por erosión, salinización, compactación, pérdida de materia orgánica o contaminación. La desertificación es la degradación de la tierra que conduce a su conversión en zonas áridas, semiáridas y subhúmedas como resultado de factores humanos y climáticos. En Cuba, la erosión, la salinización en zonas costeras y llanuras bajas y el mal drenaje afectan superficies significativas y limitan la producción de alimentos, lo que convierte la recuperación de suelos en uno de los asuntos ambientales más sensibles del país.",
+   "aplicacion": "La calidad del suelo es la garantía real del agro: un suelo degradado rinde menos, encarece el crédito y aumenta la probabilidad de impago. El analista debe valorar las prácticas del cliente (rotaciones, abonos orgánicos y biofertilizantes, conservación de suelos y agua) y privilegiar el crédito a quienes restauran la tierra, en coherencia con los programas nacionales de recuperación de suelos y con el objetivo internacional de neutralidad en la degradación de las tierras."
+  },
+  {
+   "numero": 23,
+   "bloque": 3,
+   "nombre": "Especies exóticas invasoras",
+   "definicion": "Una especie exótica invasora es la que el ser humano introduce fuera de su área natural de distribución, de manera voluntaria o accidental, y que se establece y expande desplazando a las especies nativas, alterando los ecosistemas y causando daños económicos y a la salud. Después de la destrucción de hábitats, son una de las principales causas de extinción a escala mundial. En el caso cubano, el marabú (*Dichrostachys cinerea*), introducido y expandido sobre tierras agrícolas abandonadas, es el ejemplo más visible: forma matorrales densos que reducen la productividad de los suelos y exigen grandes recursos para su control. Otras especies exóticas invasoras muy conocidas son el pez claria, el pez león o el caracol gigante africano.",
+   "aplicacion": "El Estándar 1 del PNUD refiere no introducir especies exóticas y controlar las invasoras o potencialmente invasoras en los proyectos. El analista debe evaluar los riesgos fitosanitarios en los créditos agropecuarios (semillas, animales, equipos) y considerar que especies como el marabú afectan tanto el valor productivo como el valor de garantía de las tierras. Financiar planes de control y recuperación de áreas invadidas es una aplicación directa del crédito verde."
+  },
+  {
+   "numero": 24,
+   "bloque": 3,
+   "nombre": "Cuenca hidrográfica",
+   "definicion": "Una cuenca hidrográfica es el territorio cuyas aguas - de lluvia, superficiales o subterráneas- drenan hacia un mismo cauce, embalse o litoral. Es la unidad natural de gestión del agua y del suelo: lo que sucede aguas arriba (tala, cultivos, vertimientos, urbanización) determina la cantidad y la calidad del agua aguas abajo. Los ríos cubanos son cortos y de caudal variable; el país sufre estrés hídrico, sequías recurrentes e intrusión salina en los acuíferos costeros, por lo que el manejo integrado de cuencas es una prioridad de la política ambiental.",
+   "aplicacion": "Los clientes comparten cuencas hidrográficas, que pueden clasificarse según sus funciones e interés en locales, y nacionales. El vertimiento de una industria o la aplicación excesiva de agroquímicos por un productor afecta a agricultores, acueductos y turismo aguas abajo, y puede generar conflictos y responsabilidades. El analista debe evaluar el consumo y los vertimientos del cliente, exigir el tratamiento de las aguas residuales y considerar el estrés hídrico del territorio; las obras hidráulicas mayores requieren evaluación de impacto y suelen clasificarse como riesgo moderado o alto en el SESP."
+  },
+  {
+   "numero": 25,
+   "bloque": 3,
+   "nombre": "Marco Global de Kunming-Montreal",
+   "definicion": "Es el acuerdo internacional más importante de las últimas décadas para la protección de la naturaleza. Fue aprobado en diciembre de 2022, en el marco de la 15.ª Conferencia de las Partes (COP15) del Convenio sobre la Diversidad Biológica, y funciona como un «plan mundial» con cuatro metas a largo plazo y veintitrés metas concretas al año 2030, cuyo propósito es detener y revertir la pérdida de biodiversidad. Su meta más difundida es la denominada «30x30»: conservar eficazmente al menos el 30 % de las tierras y los mares del planeta hacia 2030. Otra de sus metas, la número 15, obliga a las grandes empresas e instituciones financieras a evaluar y divulgar sus riesgos, dependencias e impactos sobre la biodiversidad, lo que lo convierte en un punto de referencia directo para el sector bancario.",
+   "aplicacion": "Cuba, como Parte del Convenio sobre la Diversidad Biológica, irá trasladando progresivamente estos compromisos a sus políticas nacionales: ampliación y fortalecimiento del SNAP, planes de recuperación de especies amenazadas e instrumentos de financiamiento de la biodiversidad, varios de ellos impulsados con el apoyo del PNUD a través de la iniciativa BIOFIN. Para el analista de créditos, esto significa que las operaciones ubicadas cerca de áreas de importancia biológica, o que dependan de recursos naturales vulnerables, deberán examinarse a la luz de las metas del Marco, pues su incumplimiento puede traducirse en riesgos regulatorios, reputacionales y de mercado. A la vez, el Marco abre oportunidades: diseñar líneas de crédito verdes alineadas con estas metas facilita el acceso a fondos internacionales y posiciona a la entidad bancaria como actor clave en el cumplimiento de los compromisos ambientales del país."
+  },
+  {
+   "numero": 26,
+   "bloque": 3,
+   "nombre": "Unión Internacional para la Conservación de la Naturaleza (UICN)",
+   "definicion": "Es la red ambiental más grande y antigua del mundo: fundada en 1948, reúne a Estados, agencias gubernamentales y organizaciones científicas que trabajan de conjunto por la conservación de la naturaleza. Su contribución más conocida es la **Lista Roja de Especies Amenazadas**, un catálogo mundial que clasifica a las especies según su riesgo de desaparecer, mediante categorías como «en peligro crítico», «en peligro» o «vulnerable». Gracias a este sistema, un científico de cualquier país puede saber con precisión cuán amenazada está una especie, desde el manatí antillano hasta el cocodrilo cubano. La UICN también establece las categorías internacionales de manejo de áreas protegidas y mantiene una Lista Verde que reconoce a las áreas mejor gestionadas, lo que la convierte en la referencia científica mundial en materia de conservación.",
+   "aplicacion": "Las categorías de la Lista Roja son una herramienta práctica de trabajo: cuando el Estándar 1 de los Estándares Socioambientales del PNUD exige evaluar los impactos sobre la biodiversidad, se refiere expresamente a las especies incluidas en esta Lista y en los instrumentos nacionales equivalentes, como el Libro Rojo de Cuba. Para el analista de créditos, comprobar si en el área de influencia de un proyecto financiado habita alguna especie clasificada en categorías de amenaza es un paso concreto de la debida diligencia: su presencia obliga a exigir medidas de mitigación, licencias adicionales o incluso a replantear la operación, pues dañar especies amenazadas acarrea sanciones legales, pérdida de financiamiento internacional y daño reputacional para cliente y banco."
+  },
+  {
+   "numero": 27,
+   "bloque": 3,
+   "nombre": "CITES (Convención sobre el Comercio Internacional de Especies Amenazadas)",
+   "definicion": "Es un tratado internacional, suscrito en 1973 y vigente desde 1975, del que Cuba es Parte, que regula el comercio internacional de animales y plantas silvestres para impedir que dicho comercio ponga en peligro su supervivencia. Su mecanismo es sencillo: las especies se incluyen en uno de tres apéndices según el grado de protección necesario. El Apéndice I agrupa a las especies en peligro de extinción cuyo comercio está prohibido, salvo excepciones muy controladas; el Apéndice II, a aquellas que pueden comercializarse solo con permisos que garanticen su aprovechamiento sostenible; y el Apéndice III, a especies que un país protege y solicita la cooperación de los demás para controlarlo. Así, productos como el cobo, las pieles de cocodrilo criado, maderas preciosas o corales y especies como los flamencos o las cotorras solo pueden exportarse o importarse legalmente con los permisos CITES correspondientes.",
+   "aplicacion": "Cuando un cliente solicita financiamiento para una actividad vinculada al comercio de fauna y flora —exportación de productos marinos, venta de plantas ornamentales, talabartería, criaderos—, el analista debe verificar que la especie no esté incluida en los apéndices CITES o, si lo está, que la operación cuente con los permisos emitidos por la autoridad nacional designada. Financiar negocios que comercien especies sin estos permisos expone al banco a riesgos legales severos, pues el comercio ilícito de especies es un delito ambiental que además suele vincularse a flujos financieros irregulares. Verificar la conformidad CITES es, por tanto, un control de cumplimiento esencial y una señal de que la operación apoya el aprovechamiento legal y sostenible de la biodiversidad cubana."
+  },
+  {
+   "numero": 28,
+   "bloque": 4,
+   "nombre": "Riesgo ambiental y social",
+   "definicion": "El riesgo ambiental y social es la posibilidad de pérdidas financieras, legales, operativas o reputacionales derivadas de los impactos ambientales y sociales de las actividades de un cliente, de un proyecto o del propio banco. Se manifiesta por canales concretos: multas y sanciones, interrupción de operaciones, pérdida de mercados, demandas de comunidades, devaluación de colaterales y deterioro de la imagen institucional. No es un riesgo abstracto: la experiencia internacional muestra que una parte relevante de las pérdidas crediticias en los sectores intensivos en recursos naturales nace de estos factores.",
+   "aplicacion": "Integrar este riesgo en el ciclo de crédito significa incorporarlo en cada etapa: en la identificación (diagnóstico), en la evaluación (junto al análisis financiero), en la decisión (condiciones y cláusulas), en el seguimiento (alertas tempranas) y en la recuperación. El Enverdecimiento de la banca cubana, impulsado junto al PNUD en el marco de BIOFIN, avanza precisamente en esa dirección: herramientas para identificar, evaluar y gestionar estos riesgos."
+  },
+  {
+   "numero": 29,
+   "bloque": 4,
+   "nombre": "Debida diligencia ambiental y social",
+   "definicion": "La debida diligencia ambiental y social es el proceso sistemático que realiza una institución antes de comprometer recursos, para conocer los riesgos e impactos de la actividad que va a financiar: recopilar información, consultar a los afectados, identificar y valorar los riesgos, definir medidas de prevención y mitigación y establecer condiciones y seguimiento. Es el equivalente ambiental de la debida diligencia crediticia clásica: nadie aprueba un crédito sin conocer la solvencia del deudor, y tampoco debería aprobarlo sin conocer su conducta ambiental y social.",
+   "aplicacion": "En la práctica, se materializa en listas de verificación por sector, en la revisión de licencias y dictámenes, en las visitas al sitio y en la documentación contractual. El analista debe documentar todo el proceso: lo que no está documentado no existe ante un auditor. Los SES del PNUD y sus procedimientos ofrecen una plantilla madura para estructurar este trabajo en la banca."
+  },
+  {
+   "numero": 30,
+   "bloque": 4,
+   "nombre": "Diagnóstico social y ambiental (SESP)",
+   "definicion": "El procedimiento de diagnóstico social y ambiental es la primera etapa de la debida diligencia: un examen rápido y estandarizado, mediante lista de verificación, para determinar si un proyecto presenta riesgos potenciales y de qué magnitud. El PNUD lo aplica a todos sus proyectos mediante el SESP (*Social and Environmental Screening Procedure*), que clasifica el riesgo como bajo, moderado, significativo o alto a partir de preguntas del tipo: ¿está en un área protegida?, ¿afecta especies amenazadas?, ¿implica desplazamiento de personas?, ¿maneja materiales peligrosos?, ¿se ubica en una zona costera vulnerable?",
+   "aplicacion": "Para la banca cubana es la herramienta más directamente replicable: adaptada al portafolio local, permite triar la cartera nueva en minutos y decidir la profundidad del análisis. Un riesgo bajo puede resolverse con condiciones estándar; un riesgo moderado exige medidas específicas; un riesgo alto requiere estudios especializados, consulta con el MAHRH y, con frecuencia, el rediseño del proyecto antes de aprobar el crédito."
+  },
+  {
+   "numero": 31,
+   "bloque": 4,
+   "nombre": "Evaluación de impacto ambiental",
+   "definicion": "La evaluación de impacto ambiental (EIA) es el estudio técnico que identifica, predice y valora los impactos significativos -positivos y negativos- de una obra o actividad sobre el medio, y propone las medidas para evitarlos, minimizarlos, restaurar los daños o compensar los inevitables. Es un instrumento jurídico preventivo: se realiza antes de aprobar el proyecto. En Cuba, la Ley 150/2022 la consagra como instrumento de la política ambiental, y el MAHRH la exige para las actividades determinadas según el riesgo de la instalación o la sensibilidad del territorio.",
+   "aplicacion": "Para el analista, la existencia y la calidad de la EIA son señales críticas: un proyecto que la requiere y no la presenta no debe recibir financiamiento. Deben revisarse el dictamen ambiental, las condiciones impuestas y los compromisos asumidos por el cliente, que se convierten en condiciones del crédito. El PNUD exige estudios de impacto equivalentes para sus proyectos de riesgo moderado y alto."
+  },
+  {
+   "numero": 32,
+   "bloque": 4,
+   "nombre": "Licencia ambiental",
+   "definicion": "La licencia ambiental es la autorización administrativa que otorga la autoridad ambiental - en Cuba, el MAHRH- para que una instalación opere, previa comprobación de que cumple los requisitos de protección del medio. Incorpora condiciones, límites de emisiones y vertimientos, obligaciones de monitoreo y plazos, y es un documento renovable: puede modificarse, suspenderse o revocarse si el titular incumple. Funciona, en definitiva, como el certificado de aptitud ambiental de la actividad, y su vigencia condiciona la propia legalidad de la operación del cliente.",
+   "aplicacion": "La verificación de la licencia debe ser rutinaria en la evaluación y en el seguimiento del crédito: vigencia, alcance (si cubre la actividad real del cliente) y cumplimiento de sus condiciones. La suspensión o revocación de la licencia detiene el negocio y dispara la morosidad; por eso su estado debe formar parte de las alertas tempranas de la cartera."
+  },
+  {
+   "numero": 33,
+   "bloque": 4,
+   "nombre": "Plan de gestión ambiental y medidas de mitigación",
+   "definicion": "El plan de gestión ambiental es el documento que organiza en el tiempo las acciones necesarias para prevenir, reducir y compensar los impactos de un proyecto: medidas concretas, responsables, plazos, indicadores, presupuesto y procedimientos de monitoreo. Incluye, según el caso, planes de contingencia y de emergencia, manejo de residuos, capacitación del personal y comunicación con las comunidades. Las medidas de mitigación siguen la jerarquía del PNUD: primero evitar, luego minimizar, después restaurar y, solo como último recurso, compensar.",
+   "aplicacion": "El plan de gestión es el puente entre la evaluación y la operación: convierte el dictamen ambiental en obligaciones ejecutables. El analista puede incorporar sus compromisos como condiciones del contrato de crédito, financiar las inversiones de mitigación dentro del monto del préstamo y utilizar los informes de monitoreo como fuente de alertas tempranas sobre la salud ambiental del cliente."
+  },
+  {
+   "numero": 34,
+   "bloque": 4,
+   "nombre": "Partes interesadas",
+   "definicion": "Las partes interesadas (*stakeholders*) son las personas y grupos que afectan o son afectados por un proyecto, o que se sienten involucrados: comunidades vecinas, trabajadores, autoridades locales, proveedores, clientes, organizaciones sociales y científicas. La consulta significativa - informar a tiempo, escuchar de verdad y devolver respuestas- es un requisito de los estándares internacionales y del PNUD, no un trámite: muchos proyectos fracasan no por su técnica, sino por ignorar a quienes otorgan la llamada licencia social para operar.",
+   "aplicacion": "En la evaluación del crédito, identificar las partes interesadas permite anticipar conflictos por el agua, la tierra, el ruido o el tránsito, que tarde o temprano se traducen en retrasos, costos y morosidad. El analista debe registrar las consultas realizadas y los compromisos del cliente con la comunidad; el Estándar 7 del PNUD exige además que exista un canal formal establecido para recibir los reclamos."
+  },
+  {
+   "numero": 35,
+   "bloque": 4,
+   "nombre": "Mecanismo de solución de quejas",
+   "definicion": "Un mecanismo de solución de quejas es el canal institucional, accesible y transparente, mediante el cual las personas afectadas por un proyecto pueden presentar reclamos, recibir respuesta oportuna y obtener reparación cuando corresponde. El Estándar 7 del PNUD lo exige en todo proyecto: debe ser conocido por las comunidades, gratuito, confidencial cuando se requiera y con plazos de respuesta definidos. A escala institucional, el PNUD mantiene además un mecanismo independiente de rendición de cuentas para revisar las quejas sobre el cumplimiento de sus salvaguardas.",
+   "aplicacion": "Para la banca, un mecanismo de quejas eficaz en el cliente es un sensor temprano: las quejas recurrentes anticipan conflictos, paralizaciones y daños reputacionales que terminan afectando el pago. El banco puede exigirlo a los grandes clientes como condición del financiamiento, y debe mantener el propio para sus operaciones, en coherencia con la transparencia que exige el Enverdecimiento del sistema financiero."
+  },
+  {
+   "numero": 36,
+   "bloque": 4,
+   "nombre": "Patrimonio cultural",
+   "definicion": "El patrimonio cultural comprende los bienes materiales - sitios arqueológicos, monumentos, construcciones históricas, centros urbanos- y los bienes inmateriales - tradiciones, música, saberes, festividades- que constituyen la identidad de un pueblo. El Estándar 4 del PNUD exige protegerlo y consultar a las comunidades sobre los elementos que les son esenciales. Cuba posee un patrimonio excepcional, con sitios declarados Patrimonio Mundial por la UNESCO, como el centro histórico de La Habana Vieja, la ciudad de Trinidad y el paisaje arqueológico de las primeras plantaciones de café del sudeste de la isla.",
+   "aplicacion": "Los proyectos turísticos, inmobiliarios y de infraestructura en cascos históricos o zonas arqueológicas requieren autorizaciones específicas y criterios de conservación; su incumplimiento genera sanciones y un daño reputacional difícil de reparar. El analista debe identificar la presencia de patrimonio en el área del proyecto y las autorizaciones correspondientes. Junto al patrimonio, los estándares 5 (desplazamiento y reasentamiento) y 6 (pueblos indígenas) completan la esfera social que el procedimiento de diagnóstico debe explorar: en Cuba, donde no existen pueblos indígenas contemporáneos en el sentido del estándar, la atención se centra en evitar reasentamientos involuntarios y en proteger a las comunidades locales."
+  },
+  {
+   "numero": 37,
+   "bloque": 5,
+   "nombre": "Banca verde",
+   "definicion": "La banca verde es la expresión financiera del desarrollo sostenible: la incorporación de criterios ambientales y sociales en la gobernanza, las políticas, los productos y la operación diaria de los bancos. El financiamiento verde es su producto visible: créditos y líneas destinados a la eficiencia energética, las fuentes renovables, el transporte limpio, la agricultura sostenible, el manejo de residuos, el agua y la conservación, además de la reducción de la huella del propio banco en energía, papel y transporte (ecoeficiencia bancaria). La banca verde enriquece los análisis de riesgo con variables que la banca tradicional ignoraba.",
+   "aplicacion": "En Cuba, el Enverdecimiento de la banca avanza en el marco de BIOFIN con el Banco Central, el MAHRH y los ministerios económicos, y entidades como Bandec asumen el perfil de banco verde con capacitación y herramientas de gestión de riesgos. Para el analista, la banca verde significa ampliar su caja de herramientas: clasificar la cartera por exposición ambiental, diseñar condiciones preferentes para los proyectos elegibles y reportar la contribución al desarrollo sostenible."
+  },
+  {
+   "numero": 38,
+   "bloque": 5,
+   "nombre": "Financiamiento de la biodiversidad (BIOFIN)",
+   "definicion": "BIOFIN es una iniciativa global del PNUD para el financiamiento de la biodiversidad creada en 2012, que ayuda a los países a medir cuánto invierten en biodiversidad, cuánto necesitan y qué instrumentos pueden cerrar esa brecha de financiamiento. Su metodología combina el examen de las políticas y los gastos públicos, el análisis de las necesidades de financiamiento y un plan de finanzas de la biodiversidad con instrumentos concretos: incentivos fiscales, líneas de crédito verde, pagos por servicios ecosistémicos, fondos y fideicomisos de conservación. Opera en más de 140 países y, desde el 2016, tuvo su inicio en Cuba.",
+   "aplicacion": "En Cuba, BIOFIN se implementa en alianza con el MAHRH, el Ministerio de Finanzas y Precios, el Ministerio de Economía y Planificación, el Banco Central de Cuba y la Oficina Nacional de Estadística e Información y asesoría técnica del PNUD. En ese marco se desarrolla el Enverdecimiento de la banca. Para el analista, conocer BIOFIN permite entender de dónde surgirán los próximos productos verdes del sistema y orientar a los clientes hacia los instrumentos que se habiliten."
+  },
+  {
+   "numero": 39,
+   "bloque": 5,
+   "nombre": "Criterios ASG (ambientales, sociales y de gobernanza)",
+   "definicion": "Los criterios ASG - ambiental, social y de gobernanza, conocidos también por sus siglas en inglés ESG- son el conjunto de factores no financieros que permiten evaluar la sostenibilidad y la conducta de una organización. Lo ambiental cubre emisiones, energía, agua, residuos y biodiversidad; lo social, las condiciones de trabajo, la igualdad de género, la relación con la comunidad y los derechos humanos; la gobernanza, la ética, la transparencia, la lucha contra la corrupción y la estructura de dirección. Bancos e inversionistas los utilizan para calificar contrapartes, diseñar productos y reportar sus resultados.",
+   "aplicacion": "Los SES del PNUD funcionan como un estándar ASG maduro para proyectos. En la práctica, el analista puede construir una ficha ASG sencilla del cliente (cumplimiento ambiental, relaciones laborales, transparencia) y usarla como insumo de la calificación integral. Un buen desempeño ASG reduce el riesgo a largo plazo; un desempeño deficiente anticipa problemas que todavía no aparecen en los estados financieros."
+  },
+  {
+   "numero": 40,
+   "bloque": 5,
+   "nombre": "Taxonomía verde",
+   "definicion": "Una taxonomía verde es un sistema de clasificación que establece, mediante criterios técnicos verificables, qué actividades, activos o proyectos pueden considerarse ambientalmente sostenibles. Proporciona un lenguaje común para bancos, reguladores e inversionistas y ayuda a prevenir el *greenwashing* o «lavado verde»: presentar una actividad como sostenible sin que cumpla criterios que lo respalden. Existen taxonomías nacionales y regionales, como la de la Unión Europea. Cuba se encuentra en proceso de desarrollar la suya.",
+   "aplicacion": "Para la banca cubana, contar con criterios nacionales de elegibilidad —en el marco del trabajo de BIOFIN y del Banco Central— permitiría evaluar de forma coherente el desempeño ambiental de las actividades financiadas. El analista deberá comprobar que la clasificación de una actividad se ajuste a esos criterios, pues la credibilidad de las decisiones de financiamiento depende de aplicar la taxonomía con rigor."
+  },
+  {
+   "numero": 41,
+   "bloque": 5,
+   "nombre": "Bonos verdes",
+   "definicion": "Un bono verde es un instrumento de deuda cuyos fondos se destinan exclusivamente a financiar o refinanciar proyectos verdes elegibles. Su emisión suele incluir compromisos de seguimiento y reporte sobre el uso de los recursos y, por lo general, una revisión independiente. Para respaldar la credibilidad del bono, los criterios de elegibilidad pueden basarse en una taxonomía verde y en principios internacionales voluntarios para la emisión de instrumentos verdes.",
+   "aplicacion": "Un bono verde no implica, por sí solo, menor riesgo financiero. En el análisis de riesgos los bonos verdes se evalúan según el destino y seguimiento de los fondos, la capacidad del emisor para cumplir sus compromisos de reporte y los riesgos de ejecución de los proyectos financiados. También se considera el riesgo de que las iniciativas no generen los resultados ambientales anunciados o de que exista *greenwashing*. También deben contar con mecanismos para asignar y rastrear los fondos del bono, cumplir los compromisos de reporte y verificar los resultados ambientales de los proyectos financiados. CONCEPTOS AMBIENTALES Y DE BIODIVERSIDAD PARA EL SECTOR FINANCIERO Y BANCARIO CUBANO 2"
+  }
+ ],
+ "conclusiones": {
+  "titulo": "Conclusiones",
+  "subtitulo": "Síntesis del glosario",
+  "tarjetas": [
+   {
+    "titulo": "Una transición necesaria",
+    "texto": "La transición hacia un modelo de banca verde en Cuba responde a un entorno físico, normativo y financiero mundial que ha cambiado de manera irreversible: el clima se transforma, los ecosistemas se degradan, la legislación ambiental se endurece y clientes, socios y organismos internacionales exigen mayor transparencia. El análisis de riesgos crediticios ya no puede limitarse a la solvencia del deudor: debe incorporar, con el mismo rigor, la dimensión ambiental y social del riesgo."
+   },
+   {
+    "titulo": "Valor práctico para el analista",
+    "texto": "Los 41 conceptos del glosario, organizados en cinco bloques y conectados con los Estándares Socioambientales del PNUD, transforman la evaluación de una operación de crédito. Comprender los servicios ecosistémicos, distinguir el riesgo físico del de transición o dominar la debida diligencia, la evaluación de impactos y el screening por niveles de riesgo convierte el cumplimiento de la Ley 150/2022, de la Tarea Vida y de los Estándares del PNUD en un procedimiento concreto, documentado y defendible, y no en una declaración de intenciones."
+   },
+   {
+    "titulo": "Tres ideas de cierre",
+    "texto": "1. El riesgo ambiental es, en última instancia, un riesgo crediticio: lo que daña al territorio termina dañando la capacidad de repago y, por tanto, la cartera de la entidad financiera.\n\n2. El marco conceptual internacional (Convenio sobre la Diversidad Biológica, Marco Global de Kunming-Montreal, Programa Nacional sobre la Diversidad Biológica, BIOFIN) no es ajeno a Cuba: el país es parte de estos compromisos y la banca es uno de los canales para movilizar los recursos que permiten cumplirlos.\n\n3. La competencia en esta materia se construye con práctica: estos términos deben usarse en comités de crédito, fichas de evaluación, planes de mitigación y conversaciones con los clientes."
+   },
+   {
+    "titulo": "Un puente entre ciencia y banca",
+    "texto": "Este material no pretende agotar el tema, sino servir de puente entre las ciencias ambientales y la práctica bancaria, entre los estándares internacionales y la realidad de las sucursales cubanas. Es un punto de partida para financiar el presente sin comprometer el futuro, de modo que cada recurso colocado contribuya a un desarrollo verdaderamente sostenible para el país."
+   }
+  ],
+  "descargas": {
+   "titulo": "Descargas",
+   "nota": "Toca el ícono para abrir el archivo (requiere conexión a internet).",
+   "items": [
+    {
+     "titulo": "Guía de conceptos",
+     "detalle": "Glosario completo · PDF",
+     "url": "https://drive.google.com/file/d/1h2AxQca0HpRsr5mUlQA95neHBHhJhNNr/view?usp=sharing"
+    },
+    {
+     "titulo": "Ficha resumen",
+     "detalle": "Resumen de una página · PDF",
+     "url": "https://drive.google.com/file/d/1YqE8sileL1qx2M4VIEYTfR0zc9xNEAed/view?usp=sharing"
+    }
+   ]
+  }
+ }
+}
